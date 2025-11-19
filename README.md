@@ -42,9 +42,13 @@ Differential amplifier
 <img width="678" height="334" alt="image" src="https://github.com/user-attachments/assets/f8d817d8-aa4b-4308-8a1f-822567db04b3" />
 
 ## TABULATION:
+![WhatsApp Image 2025-11-19 at 22 24 00_c8b760a7](https://github.com/user-attachments/assets/0e114db6-4c6f-479f-abd6-2bfa16dd003b)
 
 
 ## GRAPH:
 
 
-## RESULT:                   
+![WhatsApp Image 2025-11-19 at 22 23 58_9608034b](https://github.com/user-attachments/assets/f47366fe-4683-4f47-8cda-5d93803a6beb)
+
+## RESULT:       
+Thus the inverting,non inverting and differential amplifier are ddesigned and their performance was sucessfully tested using op-amp IC741
